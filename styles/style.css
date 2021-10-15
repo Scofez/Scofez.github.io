@@ -1,0 +1,112 @@
+.uppernav{
+    text-align: center;
+    padding: 30px ;
+}
+
+.centered{
+    text-align: center; 
+}
+.mainbuttons{
+    background-color: rgb(148, 144, 144);
+    padding: 6px 80px;
+    margin: 15px;
+}
+
+
+.regbutn{
+    color:white;
+}
+.announcement{
+
+    padding:200px;
+    background-image: url("../images/finalthumbnail.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    opacity:60%;
+}
+
+.mainmenu{
+    padding-top:20px;
+    text-align: center;
+    color:rgb(245, 237, 237);
+    padding-bottom: 20px;
+}
+.leftimg{
+    padding-right: 150px;
+    width:50%;
+}
+.mainlogo{
+    padding-top:0px;
+    padding-bottom: 0px;
+}
+.titled{
+    float:left;
+    width:50%
+}
+
+.hotelsboi{
+    background-color: #343a40;
+    color:white;
+    padding-bottom:15px;
+    padding-top:15px;
+}
+
+
+.eventdesc{
+
+    display:inline-block;
+    background-color: grey;
+    color:white;
+    padding: 30px 50px;
+    margin-left:350px;
+    margin-right:350px;
+
+
+}
+
+
+.abouteventb{
+    padding-bottom:100px
+}
+
+
+/* ============ desktop view ============ */
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{   }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+}	
+/* ============ desktop view .end// ============ */
+
+.centerguest{
+    padding-top:30px;
+}
+
+.getmeaway{
+    padding-top:60px;
+    padding-bottom:30px;
+}
+
+.titlestyle{
+    font-family:Copperplate Gothic;
+}
+
+.textstyle{
+    font-family:Times New Roman;
+    font-size:large
+}
+
+#guests{
+    padding-bottom:50px;
+}
+
+#evento{
+    padding-bottom:50px;
+}
+
+#uppernavbar{
+    padding-top:30px;
+    padding-bottom:30px;
+}
