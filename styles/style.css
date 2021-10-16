@@ -60,18 +60,20 @@
 .eventdesc{
 
     display:inline-block;
-    background-color: grey;
+    background-color: #343a40;
     color:white;
     padding: 30px 50px;
-    margin-left:350px;
-    margin-right:350px;
+    margin-left:200px;
+    margin-right:200px;
 
 
 }
 
 
 .abouteventb{
-    padding-bottom:100px
+    padding-bottom:100px;
+    
+    
 }
 
 
@@ -85,7 +87,7 @@
 /* ============ desktop view .end// ============ */
 
 .centerguest{
-    padding-top:30px;
+    padding-top:50px;
 }
 
 .getmeaway{
@@ -124,6 +126,7 @@
 #navbar {
     background-color: #333;
     z-index: 9;
+    padding:0px
   }
   
   /* Navbar links */
